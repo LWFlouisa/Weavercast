@@ -3,7 +3,7 @@ title: Podcast Test
 published: true
 ---
 <audio controls>
-  <source src="horse.mp3" type="audio/mpeg">
+  <source src="https://raw.githubusercontent.com/LWFlouisa/Weavercast/master/audio/episode1.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio> 
 
