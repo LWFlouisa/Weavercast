@@ -8,4 +8,4 @@ published: true
 
 I mostly grew up watching Japanese animation, particularly the ones that got featured on Adult Swim. I could never relate to the standard American fare, even those that debateably featured more adult fare. This created a weird issue where I ( until recently ) wanted to mainly draw realistically, mostly because I didn't want to lower myself to producing the kind of garbage content Cartoon network featured. More on this stream.
 
-![image1](https://github.com/LWFlouisa/Weavercast/blob/master/assets/drawings/Other/1q3HRZkuY6u8Uv53Wz01AwHSFNQzalemmBwylKbn.jpeg)
+<img width="25%" src="https://github.com/LWFlouisa/Weavercast/blob/master/assets/drawings/Other/1q3HRZkuY6u8Uv53Wz01AwHSFNQzalemmBwylKbn.jpeg">
