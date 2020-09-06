@@ -12,5 +12,4 @@ I mostly grew up watching Japanese animation, particularly the ones that got fea
 <img width="25%" src="https://lwflouisa.github.io/Weavercast/assets/drawings/Other/1q3HRZkuY6u8Uv53Wz01AwHSFNQzalemmBwylKbn.jpeg">
 <img width="25%" src="https://lwflouisa.github.io/Weavercast/assets/drawings/annabelle_by_otissalmoneus-daoie0u.jpg">
 <img width="25%" src="">
-<img width="25%" src="">
 </p>
