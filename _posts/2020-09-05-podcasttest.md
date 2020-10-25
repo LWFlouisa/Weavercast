@@ -3,7 +3,7 @@ title: Dash Pronoun Anarchism Is No Anarchism
 published: true
 ---
 <audio controls>
-  <source src="Weavercast/audio/dashpronounanarchismisnoanarchism.mp3" type="audio/mpeg">
+  <source src="https://lwflouisa.github.io/Weavercast/audio/dashpronounanarchismisnoanarchism.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio> 
 
