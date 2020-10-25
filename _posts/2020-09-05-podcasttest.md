@@ -1,10 +1,10 @@
 ---
-title: First Episode
+title: Dash Pronoun Anarchism Is No Anarchism
 published: true
 ---
 <audio controls>
-  <source src="https://cdn.glitch.com/12797d37-f66b-4e99-90b9-7ca07a6de8cf%2Fepisode2.mp3?v=1599326545723" type="audio/mpeg">
+  <source src="Weavercast/audio/dashpronounanarchismisnoanarchism.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio> 
 
-This is an audio essay on why super heroes need to evolve, not go away.
+This is an audio essay on my generation frusteration with people that conform to a specific "dash pronoun" variety of anarchism. The very point of anarchism is to be without undo hierarchy and rulers. You cannot do this when having to conform to Communism and Capitalist ritualist behaviours. I also have some Lime Green and Transhumanist beliefs, but I'm not going to artificially constrict myself to any of these just to win "woke" points. This runs completely counter to the idea of anarchism, in the way I understand it.
