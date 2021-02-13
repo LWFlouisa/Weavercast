@@ -1,5 +1,5 @@
 ---
-title: Episode 1. Moving On From Mainstream Comics And Comicsgate
+title: Episode 2. Hafestran Culture Is Not Japanese Culture
 published: true
 ---
 <audio controls>
