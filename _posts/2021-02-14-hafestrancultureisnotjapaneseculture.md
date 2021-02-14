@@ -4,7 +4,6 @@ published: true
 ---
 <audio controls>
   <source src="https://lwflouisa.github.io/Weavercast/audio/episode2.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
 </audio>
 
 In a way, Hafestran closer is closer to an Indigenous French culture than Japanese. There is still somewhat of an influence from Japan that has lasted longer than even some aspects of French culture, such as in most of the supernatural and folklore narratives. Hafestran culture also has a different relationship with the guillotine, having been colonized by France. Much in the same way anyone colonized by France would. ( Their National Razor firearm is more of a self-defence weapon than an execution device. ) Their fashion is closer to 19th century French fashion than Japanese, most noteably in the foot ware. They wear Sabots rather than Geta.
