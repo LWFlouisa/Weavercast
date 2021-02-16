@@ -1,5 +1,5 @@
 ---
-title: Esioma -- What Is Fasehasi
+title: Esioma -- What Is Egierune
 published: true
 ---
 While Fasehasi delves a little bit into LGBT history Hafestran American society, in this genre, LGBT stories are almost entirely the focus. By LGBT, think something closer to Yaoi and Yuri, and not the Post-Modernist conceptions that are not based on science. These specifically revolve around the impact of the Franco-Japanese war on gay couples, and sometimes ( though more rare ) also around the impact of Transmen and Transwomen in the war period.
