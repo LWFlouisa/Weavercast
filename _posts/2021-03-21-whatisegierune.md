@@ -1,11 +1,11 @@
 ---
-title: Esioma -- What Is Egierune
+title: Esioma -- What Is Fasehasi
 published: true
 ---
-While Fasehasi delves a little bit into LGBT history Hafestran American society, in this genre, LGBT stories are almost entirely the focus. By LGBT, think something closer to Yaoi and Yuri, and not the Post-Modernist conceptions that are not based on science. These specifically revolve around the impact of the Franco-Japanese war on gay couples, and sometimes ( though more rare ) also around the impact of Transmen and Transwomen in the war period.
+Fasehasi is the “Hafestran” word for fashion. This revolves around the life stories of models who have one French parents, and one Japanese parent. This primarily means one French parent from France, but can also mean one parent from Haiti, and one from Quebec. In the Haitian variety, it can be thought of as child from a Brazilian and Haitian parent. But the most common variation is someone with one ( European ) French parent, and one Japanese ( Japan ) parent.
 
-Frequently, one or both of the partners is not accepted in the society in which they were raised ( in this sense, egierune is more dystopian than your standard Yaoi and Yuri ), and therefore will go to great things to hide their relationship with their significant other. There is also often considerable differences between the way the French accept LGBT people, and the way Japanese society treats LGBT people.
+These models are descended from the earliest couples that survived the Franco-Japanese civil wars that split the US into French-speaking and Japanese-speaking regions. In a sense, it is a post rebuilding of the previous fashion industry with a focus on fashion for LGBT models. Their lives revolve around the various cruelties that exist in the industry to try to be thinner and look better, and the different forms of toxic masculinity placed on them. This approach to LGBT story telling also focuses on the reality of our lives, not what academic professors preach to us about us.
 
-Because of the Post-War context, these are generally set in apocalyptic landscapes based around old rundown factories, and other government buildings and locations in disrepair. Think of this as the Alternative Comix variation of Yaoi and Yuri, after the publishing industry has been rebuilt after the war.
+Sense the implication are frequently morbid, and often tragic, these are reserved exclusively for the older demographic of Esioma. Because of this, I will be rolling out age ratings for different books, to account for those who begin reading these in late high school, and those who read them in their college years. However these are never as dark as Gothique Dii Esiomo.
 
-<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://video.ploud.jp/videos/embed/268604f5-a1f7-4310-8a53-7fedc8239180" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://video.ploud.jp/videos/watch/268604f5-a1f7-4310-8a53-7fedc8239180" frameborder="0" allowfullscreen></iframe>
