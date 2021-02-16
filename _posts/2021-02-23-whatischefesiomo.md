@@ -10,4 +10,4 @@ Ones that cross over with Gothique Dii Esiomo, can also end on a darker note, wh
 
 You can have a chopping good time, reading stories about chefs who succeed or fail at not poisoning their customers.
 
-https://video.ploud.jp/videos/watch/23750d17-cf67-4da4-849e-3ca83e0ce887
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://video.ploud.jp/videos/embed/23750d17-cf67-4da4-849e-3ca83e0ce887" frameborder="0" allowfullscreen></iframe>
