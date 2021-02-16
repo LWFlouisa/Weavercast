@@ -1,5 +1,5 @@
 ---
-title: Esiomo: What Is Chef Esiomo?
+title: Esiomo -- What Is Chef Esiomo?
 published: true
 ---
 Chef Esiomo is comparable to episodes on a cooking channel, but specifically revolving around Lusophone, French, and Japanese cuisine. These stories revolve around the life of Portuguese, French, and Japanese chefs as they learn each other’s crafts, and explore how they grow up wanting to become world famous chefs, to finally becoming one.
