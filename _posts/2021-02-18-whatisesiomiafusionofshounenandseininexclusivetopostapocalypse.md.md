@@ -1,7 +1,8 @@
 ---
-title: What Is Esiomu: A Fusion Of Shounen And Seinin Exclusive To Post Apocalypse
+title: What Is Esiomu -- A Fusion Of Shounen And Seinin Exclusive To Post Apocalypse
 published: true
 ---
+
 Esiomu is a target audience within the wider subset of comics called “Esiomi”. This the Hafestran ( a fictional hybrid of French and Japanese comics ) equivalent to stuff like Shounen. However beyond this, it tends to focus on a slightly different demographic than Battle Manga.
 
 Eventually as I flesh out Esiomu, the end goal is something that is somewhat influenced by Post Apocalyptic French comics as well as Post Apocalyptic manga, that do not specifically revolve around battles. Battles will, at the very least, be of a more psychological nature rather than than martial arts based, which seems to be more frequent in Shounen Manga.
