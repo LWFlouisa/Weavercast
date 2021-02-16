@@ -1,5 +1,5 @@
 ---
-title: What Is Esioma: How It Is Different From Shojo And Josie Manga
+title: What Is Esioma -- How It Is Different From Shojo And Josie Manga
 published: true
 ---
 Esiomi primarily focuses on on Esioma content, and because of this, has the greatest amount of variety of any categories in Esiomi. In fact, I primarily created this subset as an answer to Shounen Manga having such a glut of the market in comics, but wanted to focus on Shojo Manga that wasn’t exclusively about relationships.
