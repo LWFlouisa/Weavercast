@@ -12,4 +12,4 @@ Right now, I’m working on a body of script to highlight approximately what I m
 To Read My Esioma: https://www.pixiv.net/novel/show.php?id=14674320
 To Read My Novella It Was Based On: https://www.pixiv.net/novel/show.php?id=13751504
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D4vHdaekz9Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://video.ploud.jp/videos/embed/c80b7268-4d3f-48c5-9ef5-ec648189bba0" frameborder="0" allowfullscreen></iframe>
