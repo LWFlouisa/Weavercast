@@ -9,7 +9,7 @@ Eventually as I flesh out Esiomu, the end goal is something that is somewhat inf
 
 Right now, I’m working on a body of script to highlight approximately what I mean by Boy’s comics that educate you about the French language, while also entertaining you with Post Apocalyptic content.
 
-To Read My Esioma: https://www.pixiv.net/novel/show.php?id=14674320
+To Read My Esioma: https://www.pixiv.net/novel/show.php?id=14674320<br />
 To Read My Novella It Was Based On: https://www.pixiv.net/novel/show.php?id=13751504
 
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://video.ploud.jp/videos/embed/c80b7268-4d3f-48c5-9ef5-ec648189bba0" frameborder="0" allowfullscreen></iframe>
