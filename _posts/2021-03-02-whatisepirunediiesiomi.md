@@ -1,5 +1,5 @@
 ---
-title: Episode 6. What Is Epirune Dii Esiomi: An Hafestran Light Novel Form
+title: Episode 6. What Is Epirune Dii Esiomi -- An Hafestran Light Novel Form
 published: true
 ---
 There are four sets of "Light Novels" for the Hafestran language:
