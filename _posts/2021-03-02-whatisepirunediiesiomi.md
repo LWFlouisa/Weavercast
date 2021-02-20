@@ -14,6 +14,6 @@ Eventually I will be switching to using these catagories when marketing my work,
 
 <audio controls>
   <source src="https://lwflouisa.github.io/Weavercast/audio/episode6audio.mp3" type="audio/mpeg">
-</audio>
+</audio><br />
 
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://video.ploud.jp/videos/embed/7474cb9f-a094-4b42-90c6-4fdfb6c0c647" frameborder="0" allowfullscreen></iframe>
