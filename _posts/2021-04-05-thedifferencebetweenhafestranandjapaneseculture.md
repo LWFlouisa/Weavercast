@@ -8,4 +8,7 @@ Some example forms of music:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sZxVZ7fGZyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 
+It is also an entire Literary tradition in Gekiga apparently:
+<a href="https://animechicago.com/articles/alternative-manga-panel/">Franco-Japanese Comics</a>
+
 In future episodes, I will go into the linguistic breakdown of the language.
