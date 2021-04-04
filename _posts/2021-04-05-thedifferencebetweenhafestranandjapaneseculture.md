@@ -10,5 +10,6 @@ Some example forms of music:
 
 It is also an entire Literary tradition in Gekiga apparently:
 <a href="https://animechicago.com/articles/alternative-manga-panel/">Franco-Japanese Comics</a>
+<a href="https://altmangamirror.glitch.me/">Mirror Page</a>
 
 In future episodes, I will go into the linguistic breakdown of the language.
