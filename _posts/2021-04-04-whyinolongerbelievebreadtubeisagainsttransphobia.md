@@ -1,5 +1,5 @@
 ---
-title: Why I No Longer Believe Breadtube Is Anti Transphobia As We're Led To Believe
+title: Why I No Longer Believe Breadtube As Anti Transphobia As We're Led To Believe
 published: true
 ---
 It continues to baffle me how much transphobia is actually permitted, and how transwomen and transmen aren't even allowed to question how they are being represented by Breadtube. And yet, if you were take Breadtube at their word, one might be led to believe they were the least transphobic people around. That may be true in mainstream politics.
