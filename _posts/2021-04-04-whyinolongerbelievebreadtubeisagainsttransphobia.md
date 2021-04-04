@@ -7,7 +7,7 @@ It continues to baffle me how much transphobia is actually permitted, and how tr
 I was struck by a video where Kyle Kulinski said that Ben Shapiro and Dave Rubin frequently aren't as right-wing as they claim to be on camera. While don't they say the same thing about certain left-wingers on Youtube?
 
 Here is a Secular Talk to give an idea of what I mean:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NnJ3Yc5IGmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NnJ3Yc5IGmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
 There is also the fact that on Twitter, despite this one guy being a breadtuber, for some reason he found it socially acceptable to say to a transwoman that she was being transphobic. One can't help but wonder if recent transitions by prominent youtubers were done at least in part in account of the fact that Breadtube took Philosophy Tube's video out of context.
 
