@@ -8,4 +8,7 @@ The concept was created partially out of a dare between me and a room mate I had
 <iframe allowfullscreen src="https://www.vidlii.com/embed?v=m0X90XYZ_am&a=1" frameborder="0" width="640" height="360"></iframe>
 
 ### Example Story
+In these stories, the guillotine is the default means of capital punishment. Although this will be phased out for using the National Razor Crossbow, a portable form of the public decapitation machine. Consider these as prototypes.
+
 [Melina De Noir Et Blanc](https://lwflouisa.github.io/Homepage/ShortStories/#melinadenoiretblanc)
+[21st Century Charlotte](http://21stcenturycharlotte.thecomicseries.com/blog/)
