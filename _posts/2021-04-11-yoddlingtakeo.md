@@ -1,6 +1,6 @@
 ---
 title: Yoddling Takeo
-published: true
+published: false
 ---
 :D :D :D :D
 
