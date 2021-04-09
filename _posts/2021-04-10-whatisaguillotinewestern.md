@@ -6,3 +6,6 @@ The concept was created partially out of a dare between me and a room mate I had
 
 ### What Is A Guillotine Western
 <iframe allowfullscreen src="https://www.vidlii.com/embed?v=m0X90XYZ_am&a=1" frameborder="0" width="640" height="360"></iframe>
+
+### Example Story
+[Melina De Noir Et Blanc](https://lwflouisa.github.io/Homepage/ShortStories/#melinadenoiretblanc)
