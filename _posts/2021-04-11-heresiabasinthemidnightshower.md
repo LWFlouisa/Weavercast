@@ -6,25 +6,25 @@ published: true
 
 HER ESIABAS IN THE MIDNIGHT SHOWER
 
-In a withered dress with
-her esiabas, she waltzes
-in the midnight garden light.
-With her straw hat she waltzes in all the midnight hours.
-Under the midnight hours, midnight sky sprinkles and showers.
+In a withered dress with<br />
+her esiabas, she waltzes<br />
+in the midnight garden light.<br />
+With her straw hat she waltzes in all the midnight hours.<br />
+Under the midnight hours, midnight sky sprinkles and showers.<br />
 To think that in all these hours she waltzes in showers.
 
-In this tired waltz
-she spirals downward into
-the Winter snowfall.
-She forgot to break her
+In this tired waltz<br />
+she spirals downward into<br />
+the Winter snowfall.<br />
+She forgot to break her<br />
 fall, waltzing in the showers.
 
-In a withered dress with
-her esiabas, she waltzes
-in the midnight garden light.
-With her straw hat she waltzes in all the midnight hours.
-Under the midnight hours, midnight sky sprinkles and showers.
+In a withered dress with<br />
+her esiabas, she waltzes<br />
+in the midnight garden light.<br />
+With her straw hat she waltzes in all the midnight hours.<br />
+Under the midnight hours, midnight sky sprinkles and showers.<br />
 To think that in all these hours she waltzes in showers.
 
-Many years have been, since there was
+Many years have been, since there was<br />
 a midnight shower that wasn't snow.
