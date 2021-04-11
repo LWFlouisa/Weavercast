@@ -12,7 +12,6 @@ Radicalism is the unpopular viewpoint, and apparently wanting to be seen as a no
 
 Preventing normal trans woemn from being published, is the most transphobic thing publishing can do.
 
-<i>Note that I may rerecord this podcast to be more on topic.</i>
-<audio controls>
-  <source src="https://lwflouisa.github.io/Weavercast/audio/criticaltheorypublishingandanticomicsgate.mp3" type="audio/mpeg">
-</audio>
+You want to actually not be transphobic? Not blacklisting creators like myself because that don't want to kiss Critical Theory ass, and want to be seen as normal people who happen to be trans women, out of the Trade Publishing industry, is a really good start.
+
+You can also not allow for blatant double standards like what happened at Absolute Write: https://lwflouisa.github.io/Weavercast/doublestandardsinmoderationatabsolutewrite
