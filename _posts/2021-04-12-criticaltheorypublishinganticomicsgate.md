@@ -14,4 +14,6 @@ Preventing normal trans woemn from being published, is the most transphobic thin
 
 You want to actually not be transphobic? Not blacklisting creators like myself because that don't want to kiss Critical Theory ass, and want to be seen as normal people who happen to be trans women, out of the Trade Publishing industry, is a really good start.
 
-You can also not allow for blatant double standards like what happened at Absolute Write: https://lwflouisa.github.io/Weavercast/doublestandardsinmoderationatabsolutewrite
+You can also not allow for blatant double standards like what happened at Absolute Write: <a href="https://lwflouisa.github.io/Weavercast/doublestandardsinmoderationatabsolutewrite">Double Standards In Moderation At Absolute Write</a>
+
+And yes I do have the majority at absolute write on Block at Twitter. Because I'm sick of this bullying and cancel culture nonsense.
