@@ -2,7 +2,7 @@
 title: A Critique Of Breadtube, Publishing, and Comicsgate
 published: true
 ---
-We have total nonsense going on in both political and literary discussion. You have Comicsgate that claims to support independant creators, but actually does not. You have Breadtube that claims to support minorities, when in fact they consider Asians and Trans Women to be Caucasian and Cis gendered "adjacent" despite have completely obscene it is to treat actual BIPOC and LGBT people this way if they can't get behind critical theory. You have sharp left and right-wing camps in comics, despite me thinking Graphic Novels might be a more hospitable environment for me to market myself.
+We have total nonsense going on in both political and literary discussion. You have Comicsgate that claims to support independant creators, but actually does not. You have Breadtube that claims to support minorities, when in fact they consider Asians and Trans Women to be Caucasian and Cis gendered "adjacent" despite how completely obscene it is to treat actual BIPOC and LGBT people this way if they can't get behind critical theory. You have sharp left and right-wing camps in comics, despite me thinking Graphic Novels might be a more hospitable environment for me to market myself.
 
 US as trans women and trans men should not be expected to write about Multiculturalism, Diversity, and Critical Theory just to be seen as left-wing enough. It completely transphobic to even expect to have to have a specific political idealogy one way or the other. So someone like myself, who is a normal trans girl ( not these cis gendered assholes that don't understand trans issues at all, yet dominating the discussion ) has no chance in the mainstream publishing environment either in novels or comics.
 
